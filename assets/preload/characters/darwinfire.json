@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarwinFire Idle"
+		},
+		{
+			"offsets": [
+				38,
+				-11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DarwinFire Right"
+		},
+		{
+			"offsets": [
+				133,
+				11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DarwinFire Left"
+		},
+		{
+			"offsets": [
+				17,
+				12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DarwinFire Down"
+		},
+		{
+			"offsets": [
+				9,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DarwinFire Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarwinFire",
+	"position": [
+		250,
+		200
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-680,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

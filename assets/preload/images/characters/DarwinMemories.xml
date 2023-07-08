@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarwinMemories.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darwin DOWN0000" x="0" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0001" x="198" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0002" x="396" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0003" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0004" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0005" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0006" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0007" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0008" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0009" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0010" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin DOWN0011" x="594" y="0" width="198" height="244"/>
+	<SubTexture name="Darwin IDLE0000" x="792" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0001" x="991" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0002" x="991" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0003" x="1190" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0004" x="1389" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0005" x="1588" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0006" x="1787" y="0" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0007" x="0" y="255" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0008" x="0" y="255" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0009" x="0" y="255" width="199" height="255"/>
+	<SubTexture name="Darwin IDLE0010" x="0" y="255" width="199" height="255"/>
+	<SubTexture name="Darwin LEFT0000" x="199" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0001" x="403" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0002" x="607" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0003" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0004" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0005" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0006" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0007" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0008" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0009" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0010" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin LEFT0011" x="811" y="255" width="204" height="255"/>
+	<SubTexture name="Darwin RIGHT0000" x="1015" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0001" x="1243" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0002" x="1471" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0003" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0004" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0005" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0006" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0007" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0008" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0009" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0010" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin RIGHT0011" x="1699" y="255" width="228" height="255"/>
+	<SubTexture name="Darwin UP0000" x="0" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0001" x="202" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0002" x="404" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0003" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0004" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0005" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0006" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0007" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0008" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0009" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0010" x="606" y="510" width="202" height="280"/>
+	<SubTexture name="Darwin UP0011" x="606" y="510" width="202" height="280"/>
+</TextureAtlas>

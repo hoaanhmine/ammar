@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LeslieMemories Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				13
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LeslieMemories Right"
+		},
+		{
+			"offsets": [
+				18,
+				13
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LeslieMemories Left"
+		},
+		{
+			"offsets": [
+				20,
+				15
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "LeslieMemories Down"
+		},
+		{
+			"offsets": [
+				21,
+				13
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "LeslieMemories Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LeslieMemories",
+	"position": [
+		-150,
+		250
+	],
+	"healthicon": "mom",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-200,
+		-120
+	],
+	"sing_duration": 6.29999999999999,
+	"scale": 1.5
+}

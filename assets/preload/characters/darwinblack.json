@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarwinCrazy Idle"
+		},
+		{
+			"offsets": [
+				11,
+				59
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DarwinCrazy Right"
+		},
+		{
+			"offsets": [
+				83,
+				-89
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DarwinCrazy Left"
+		},
+		{
+			"offsets": [
+				-7,
+				-7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DarwinCrazy Down"
+		},
+		{
+			"offsets": [
+				-8,
+				91
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DarwinCrazy Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarwinCrazy",
+	"position": [
+		630,
+		450
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-530,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
