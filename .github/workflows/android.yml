@@ -1,5 +1,17 @@
 name: Android Build OG
-on: workflow_dispatch
+on: 
+
+push:
+
+    branches: [ main ]
+
+pull_request:
+
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+
+  workflow_dispatch:
 jobs:
   Build:
     runs-on: ubuntu-latest
